@@ -1,5 +1,5 @@
-selenium==4.15.2
-pytest==7.4.3
-pytest-allure==2.13.2
-webdriver-manager==4.0.1
-allure-pytest==2.13.2
+pytest==9.1.1
+selenium>=4.12.0,<4.17.0
+selenium-page-factory==2.8
+allure-pytest==2.16.0
+python-dotenv==1.2.2
